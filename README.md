@@ -1,1 +1,1 @@
-# ip_5014
+This repository stores the relavant content for independent project
