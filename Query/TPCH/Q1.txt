@@ -1,3 +1,0 @@
-select l_extendedprice, s_suppkey
-from supplier, lineitem
-where s_suppkey=l_suppkey and s_nationkey>=24;
